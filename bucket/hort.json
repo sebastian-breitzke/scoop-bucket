@@ -1,22 +1,22 @@
 {
-  "version": "0.4.0",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/sebastian-breitzke/hort/releases/download/v0.4.0/hort_0.4.0_windows_amd64.zip",
-      "bin": [
-        "hort.exe"
-      ],
-      "hash": "8f33ee1c1b927ca35a9a8e12805bcf1c5e028fe426486f49311f4d8f3d936fec"
+    "version": "0.4.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sebastian-breitzke/hort/releases/download/v0.4.1/hort_0.4.1_windows_amd64.zip",
+            "bin": [
+                "hort.exe"
+            ],
+            "hash": "76fe7cbe13d984cf7ad92fcaada6e1434007a0d49664f50a8cac8acf1dba1508"
+        },
+        "arm64": {
+            "url": "https://github.com/sebastian-breitzke/hort/releases/download/v0.4.1/hort_0.4.1_windows_arm64.zip",
+            "bin": [
+                "hort.exe"
+            ],
+            "hash": "faf31a09700a72c2509b43a536ab9a8bfa6f32e0bc22ec75a3d413bbd3e1841d"
+        }
     },
-    "arm64": {
-      "url": "https://github.com/sebastian-breitzke/hort/releases/download/v0.4.0/hort_0.4.0_windows_arm64.zip",
-      "bin": [
-        "hort.exe"
-      ],
-      "hash": "82b928f47f8bcc5ececdb44102b22538e5759a31711eccdc5eae2c3d4af0abbb"
-    }
-  },
-  "homepage": "https://github.com/sebastian-breitzke/hort",
-  "license": "MIT",
-  "description": "Local secret and config store for humans and AI agents"
+    "homepage": "https://github.com/sebastian-breitzke/hort",
+    "license": "MIT",
+    "description": "Local secret and config store for humans and AI agents"
 }
