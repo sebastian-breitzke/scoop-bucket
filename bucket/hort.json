@@ -1,22 +1,22 @@
 {
-    "version": "0.4.1",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sebastian-breitzke/hort/releases/download/v0.4.1/hort_0.4.1_windows_amd64.zip",
+            "url": "https://github.com/gefuege/hort/releases/download/v1.0.0/hort_1.0.0_windows_amd64.zip",
             "bin": [
                 "hort.exe"
             ],
-            "hash": "76fe7cbe13d984cf7ad92fcaada6e1434007a0d49664f50a8cac8acf1dba1508"
+            "hash": "71f40ab2e8b1d6d32d776cbf4dada489b8e61255c18404d5a0b1b1f9d48a96e5"
         },
         "arm64": {
-            "url": "https://github.com/sebastian-breitzke/hort/releases/download/v0.4.1/hort_0.4.1_windows_arm64.zip",
+            "url": "https://github.com/gefuege/hort/releases/download/v1.0.0/hort_1.0.0_windows_arm64.zip",
             "bin": [
                 "hort.exe"
             ],
-            "hash": "faf31a09700a72c2509b43a536ab9a8bfa6f32e0bc22ec75a3d413bbd3e1841d"
+            "hash": "b5eabe77873c4875f7e4c79d0d49b915caa5e7f38101ee1708879dafd17898e0"
         }
     },
-    "homepage": "https://github.com/sebastian-breitzke/hort",
+    "homepage": "https://github.com/gefuege/hort",
     "license": "MIT",
-    "description": "Local secret and config store for humans and AI agents"
+    "description": "Local, encrypted secret store with sync for humans and AI agents"
 }
