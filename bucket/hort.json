@@ -1,19 +1,19 @@
 {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gefuege/hort/releases/download/v1.4.0/hort_1.4.0_windows_amd64.zip",
+            "url": "https://github.com/gefuege/hort/releases/download/v1.5.0/hort_1.5.0_windows_amd64.zip",
             "bin": [
                 "hort.exe"
             ],
-            "hash": "40971c941e8640c835ac00cbc579acf96158a11bbda09f5b3c3b142331572f78"
+            "hash": "86d7455e1f5553065ad1b71736e5cdd7684027b9d453ba35332fa9d5eb6c13af"
         },
         "arm64": {
-            "url": "https://github.com/gefuege/hort/releases/download/v1.4.0/hort_1.4.0_windows_arm64.zip",
+            "url": "https://github.com/gefuege/hort/releases/download/v1.5.0/hort_1.5.0_windows_arm64.zip",
             "bin": [
                 "hort.exe"
             ],
-            "hash": "32e34b5a39d6cb43933b5b33b91d613e2217b519d2e9ea678866193d95bbf350"
+            "hash": "7a129eb18acae08d6292c672469c1c7e26d83a2b4175a73b4d9101f8b6d61fa2"
         }
     },
     "homepage": "https://github.com/gefuege/hort",
